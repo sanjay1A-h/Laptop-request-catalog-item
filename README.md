@@ -10,4 +10,4 @@ This repository contains:
 ## Video Demo-1
 [[Click here to watch the demo](https://github.com/sanjay1A-h/Laptop-request-catalog-item/blob/main/laptop-catalog1.mp4)]
 ## Video Demo-2
-[[Click here to watch the demo](https://github.com/sanjay1A-h/Laptop-request-catalog-item/blob/main/laptop-catalog1.mp4)]
+[[Click here to watch the demo](https://github.com/sanjay1A-h/Laptop-request-catalog-item/blob/main/laptop-catalog2.mp4)]
